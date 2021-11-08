@@ -1,4 +1,4 @@
-# Création d'un service pour interagir avec l'API de recommandations
+# Création d'un service pour interagir avec l'API de recommendations
 
 ## Objectif
 
@@ -7,7 +7,7 @@ retourner une liste d'ID de tracks.
 
 ## Ce qui est attendu
 
-- Une classe `GetRecommandationsTracks` qui prend en paramétres :
+- Une classe `GetRecommendationsTracks` qui prend en paramétres :
   - `genres`, un tableau de genres, limités aux [genres définies par
     Spotify](https://developer.spotify.com/console/get-available-genre-seeds/)
   - `danceability`, un entier entre 0 et 100 qui définie le niveau de

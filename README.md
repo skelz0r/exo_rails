@@ -71,4 +71,4 @@ nécessaires concernant l'installation du projet.
 ### Les étapes
 
 1. [Création d'un service pour interagir avec l'API de
-   recommandations](./etapes/001_get_recommandations.md)
+   recommendations](./etapes/001_get_recommendations.md)
