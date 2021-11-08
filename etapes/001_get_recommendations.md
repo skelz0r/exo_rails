@@ -3,7 +3,7 @@
 ## Objectif
 
 Permettre à travers un service d'interagir avec l'API de recommandation et de
-retourner une liste d'ID de tracks.
+retourner une liste de tracks.
 
 ## Ce qui est attendu
 
@@ -15,11 +15,13 @@ retourner une liste d'ID de tracks.
   - `energy`, un entier entre 0 et 100 qui définie le niveau "d'énergie" de la
     playlist
 
+Cette classe devra utiliser la librairie
+[RSpotify](https://github.com/guilhermesad/rspotify)
+
 En bonus:
 
 - Un fichier de test qui vérifie:
-  - que l'API est bien appelée avec les bons paramètres (que ce soit via la
-    librairie `RSpotify` ou à travers un call HTTP classique)
+  - que l'API est bien appelée avec les bons paramètres
   - que le service renvoie bien une liste d'id de tracks
 
 Étant donné la complexité de mettre en place des tests ici (utilisation de stub), vous pouvez omettre
