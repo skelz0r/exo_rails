@@ -1,4 +1,4 @@
-# Création d'un service pour interagir avec l'API de recommendations
+# Service pour interagir avec l'API de recommendations
 
 ## Objectif
 
@@ -22,7 +22,7 @@ En bonus:
     librairie `RSpotify` ou à travers un call HTTP classique)
   - que le service renvoie bien une liste d'id de tracks
 
-Étant donné la complexité de mettre en place des tests ici, vous pouvez omettre
+Étant donné la complexité de mettre en place des tests ici (utilisation de stub), vous pouvez omettre
 cette étape.
 
 ## Conseils
