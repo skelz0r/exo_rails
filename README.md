@@ -70,5 +70,11 @@ nécessaires concernant l'installation du projet.
 
 ### Les étapes
 
+1. Récupérer des identifiants pour Spotify: rendez-vous sur le [Quick
+   Start](https://developer.spotify.com/documentation/web-api/quick-start/) de
+   Spotify for Developers pour plus d'infos. Vous devez obtenir à la fin un
+   `client id` et un `client secret`
 1. [Service pour interagir avec l'API de
    recommendations](./etapes/001_get_recommendations.md)
+1. [Service pour créer une playlist à partir de
+   tracks](./etapes/002_create_playlists.md)
