@@ -74,7 +74,7 @@ nécessaires concernant l'installation du projet.
    Start](https://developer.spotify.com/documentation/web-api/quick-start/) de
    Spotify for Developers pour plus d'infos. Vous devez obtenir à la fin un
    `client id` et un `client secret`
-1. [Service pour interagir avec l'API de
-   recommendations](./etapes/001_get_recommendations.md)
-1. [Service pour créer une playlist à partir de
-   tracks](./etapes/002_create_playlists.md)
+1. [Création de playlists (sans API)](./etapes/001_creation_playlists_rails.md)
+1. [Intégration de RSpotify pour la création effective de la playlist sur
+   Spotify](./etapes/002_creation_playlist_spotify.md)
+1. Création d'un espace membre avec Devise
