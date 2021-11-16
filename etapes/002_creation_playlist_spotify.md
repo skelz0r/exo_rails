@@ -14,6 +14,7 @@ fonction des critères du modèle, sur Spotify.
   Seeds](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-recommendations)), en utilisant la librairie [RSpotify](https://github.com/guilhermesad/rspotify)
 - Le modèle `Playlist` doit stocker l'identifiant de la playlist Spotify (dans
   un champ que l'on peut nommer `spotify_id`)
+- La vue de la playlist doit contenir un lien vers la playlist sur Spotify
 
 Concernant les tests, il faudra:
 
